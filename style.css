@@ -60,7 +60,6 @@ header .toggle img{
     height: 100%;
     width: 100%;
     opacity: 0.1;
-    pointer-events: none;
 }
 .banner .textBox{
     position: relative;
